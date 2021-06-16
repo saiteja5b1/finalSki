@@ -29,8 +29,6 @@ namespace Core.Specifications
                         AddOrderBy(n => n.Name);
                         break;
                 }
-            }else{
-                AddOrderBy(x => x.Name);
             }
         }
 

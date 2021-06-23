@@ -50,7 +50,7 @@
   {
     "Name": "Core Blue Hat",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
+    "Price": 20,
     "PictureUrl": "images/products/hat-core1.png",
     "ProductTypeId": 2,
     "ProductBrandId": 2
